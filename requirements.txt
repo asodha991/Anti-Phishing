@@ -1,0 +1,51 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+# flask==2.0.2
+requests
+# subprocess
+bs4
+# json
+# base64
+# pickle
+# urllib2
+# dateutil
+sklearn
+whois
+lxml
+tldextract
+# gunicorn==20.1.0
+# APScheduler==3.6.3
+# attrs==19.3.0
+# certifi==2019.11.28
+# Click
+# colorhash
+# configparser
+# cycler
+Flask
+Flask-Cors
+Flask-MonitoringDashboard
+# imbalanced-learn
+# imblearn
+# importlib-metadata
+# itsdangerous
+joblib
+# jsonschema
+# kiwisolver
+# kneed
+# MarkupSafe
+matplotlib
+# more-itertools
+numpy
+# psutil
+# pyparsing==2.4.6
+# pyrsistent==0.15.7
+# python-dateutil==2.8.1
+# pytz==2019.3
+# PyYAML==5.3
+# regexp==0.1
+# scikit-learn==0.22.1
+# scipy
+# six
+sklearn-pandas
+# SQLAlchemy
+# tzlocal==2.0.0
+# zipp
